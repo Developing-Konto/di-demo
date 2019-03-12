@@ -3,4 +3,11 @@ guru:
         username: JMS Username
         password: somepassJMS
         dburl: someUrlJMS
-    
+
+---  # like new file (file separator)
+spring:
+    profiles: de
+
+guru:
+    jms:
+        username: JMS USERNAMA GERMANY
